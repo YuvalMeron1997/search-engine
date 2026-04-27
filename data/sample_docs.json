@@ -1,0 +1,22 @@
+{
+  "1": "Machine learning is a field of artificial intelligence that uses statistical techniques.",
+  "2": "Artificial intelligence enables machines to perform tasks that typically require human intelligence.",
+  "3": "Python is widely used in data science, machine learning, and web development.",
+  "4": "Flask is a lightweight web framework for building APIs and web applications in Python.",
+  "5": "Data science combines statistics, programming, and domain expertise to extract insights from data.",
+  "6": "Search engines use inverted indexes to efficiently retrieve relevant documents.",
+  "7": "An inverted index maps terms to the documents that contain them.",
+  "8": "TF-IDF is a numerical statistic used to evaluate how important a word is to a document.",
+  "9": "Cosine similarity measures the similarity between two vectors.",
+  "10": "Natural language processing focuses on the interaction between computers and human language.",
+  "11": "Deep learning is a subset of machine learning using neural networks with many layers.",
+  "12": "Neural networks are inspired by the structure of the human brain.",
+  "13": "Information retrieval deals with searching for information in documents.",
+  "14": "A search engine ranks documents based on relevance to a query.",
+  "15": "PageRank is an algorithm used by Google Search to rank web pages.",
+  "16": "Web applications are interactive programs that run in a web browser.",
+  "17": "Big data refers to extremely large datasets that require advanced processing.",
+  "18": "Cloud computing provides scalable computing resources over the internet.",
+  "19": "APIs allow different software systems to communicate with each other.",
+  "20": "Databases store and manage structured information efficiently."
+}
